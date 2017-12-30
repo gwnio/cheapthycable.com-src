@@ -1,0 +1,28 @@
+<div class="w3-white w3-padding">
+	<div class="">
+		<h3>{% include "includes/article_summary_title.html" %}</h3>
+		{% include "includes/article_meta.html" %}
+	</div>
+	
+	<hr>
+	
+	{% if article.summary is defined and article.link is not defined and article.category != 'micro' %}
+		{{ article.summary }}
+		
+		<div class="w3-row w3-margin-bottom">
+			<div class="w3-col m7 s12">
+				<a href="{{ SITEURL }}/{{ article.url }}" class="w3-button w3-padding-large w3-border w3-button2-blue-grey"><b>READ MORE</b></a>
+			</div>
+			<div class="w3-col m5 w3-hide-small">
+				<span class="w3-padding-large w3-right"><span class="w3-tag w3-blue-grey"><b><span class="disqus-comment-count" data-disqus-identifier="article_1_identifier"></span></b></span></span>
+			</div>
+			<div class="w3-col s12 w3-hide-large w3-hide-medium">
+				<span class="w3-tag w3-margin-top w3-blue-grey"><b><span class="disqus-comment-count" data-disqus-identifier="article_1_identifier"></span></b></span>
+			</div>
+		</div>
+	{% endif %}
+	
+	{% if article.link is defined or article.category == 'micro' %}
+		{{ article.content }}
+	{% endif %}
+</div>

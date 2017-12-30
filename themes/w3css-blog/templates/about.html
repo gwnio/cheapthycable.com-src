@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }}{% endblock %}
+
+{% block tags %}
+	{% include "includes/page_meta_tags.html" %}
+{% endblock %}
+
+{% block content %}
+
+	<div class="w3-row">
+		<div class="w3-col l8 s12 w3-padding">
+			<div class="w3-padding w3-white">
+				{% include "includes/about_content.html" %}
+			</div>
+		</div>
+		
+		<div class="w3-col l4 w3-padding">
+			{% include "includes/tags.html" %}
+			
+			<hr>
+	
+			{% include "includes/follow_me.html" %}
+		</div>
+	</div>
+
+{% endblock %}

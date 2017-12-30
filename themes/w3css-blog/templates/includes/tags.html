@@ -1,0 +1,10 @@
+<div class="w3-white">
+	<div class="w3-padding w3-orange">
+		<h4>Tags</h4>
+	</div>
+	<div class="w3-padding">
+		{%- for tag, articles in tags|sort %}
+			<a href="{{ SITEURL }}/{{ tag.url }}" class="w3-button w3-margin-xxsmall w3-padding-small w3-border w3-button2-blue-grey">{{ tag }} ({{ articles|count }})</a>
+		{% endfor %}
+	</div>
+</div>

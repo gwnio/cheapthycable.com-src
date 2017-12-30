@@ -1,0 +1,8 @@
+{% if article.tags is defined %}
+	<span class="w3-text-blue-grey">
+		<b>Tags:</b>
+		{% for tag in (article.tags | sort) %}
+			<a href="{{ SITEURL }}/{{ tag.url }}" class="w3-button w3-margin-xxsmall w3-padding-small w3-border w3-button2-blue-grey">{{ tag|lower }}</a>
+		{% endfor %}
+	</span>
+{% endif %}

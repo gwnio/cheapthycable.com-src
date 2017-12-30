@@ -1,0 +1,6 @@
+{% if article.category is defined %}
+	<span class="w3-text-blue-grey">
+		<b>Category:</b>
+		<a href="{{ SITEURL }}/{{ article.category.url }}" class="w3-button w3-margin-xxsmall w3-padding-small w3-border w3-button2-blue-grey">{{ article.category }}</a>
+	</span>
+{% endif %}

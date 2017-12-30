@@ -1,0 +1,6 @@
+<div class="span-bar-separator w3-text-blue-grey">
+	{% if article.date is defined %}
+		<span class="w3-tag w3-blue-grey w3-text-white">{{ article.locale_date }}</span>
+	{% endif %}
+	{% include "includes/article_meta_authors.html" %}
+</div>

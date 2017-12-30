@@ -1,0 +1,8 @@
+{% if article.authors is defined %}
+	<span class="w3-text-blue-grey">
+		<b>By:</b>
+		{% for author in (article.authors | sort) %}
+			{{ author }}
+		{% endfor %}
+	</span>
+{% endif %}

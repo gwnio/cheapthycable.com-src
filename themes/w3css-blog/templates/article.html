@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+
+{% if article.summary %}
+{% block description %}{{ article.summary|striptags }}{% endblock %}
+{% endif %}
+
+{% block tags %}
+{% for t in article.tags %}
+	<meta name="tag" content="{{ t.slug }}">
+{% endfor %}
+{% endblock %}
+
+{% block content %}
+
+	<div class="w3-row">
+   		<div class="w3-col l8 s12 w3-padding">
+   			<div class="w3-white">
+				<div class="w3-container">
+					<h3 class="w3-text-orange">{{ article.title|upper }}</h3>
+					{% include "includes/article_meta.html" %}
+					
+					{% include "includes/article_share.html" %}
+				</div>
+				
+				<hr>
+				
+				<div class="w3-container">
+					<div class="article_content">
+						{{ article.content }}
+					</div>
+					
+					{% include "includes/article_footer.html" %}
+				</div>
+			</div>
+			
+			<div class="w3-margin-top w3-white">
+				<div class="w3-padding">
+					<h2 class="w3-text-blue-grey">Comments</h2>
+					{% include "includes/script_disqus_comments.html" %}
+				</div>
+			</div>
+		</div>
+		
+		<div class="w3-col l4 w3-padding">
+			{% include "includes/tags.html" %}
+			
+			<hr>
+	
+			{% include "includes/follow_me.html" %}
+		</div>
+	</div>
+
+{% endblock %}
+
+{% block additional_scripts %}
+	<script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+{% endblock %}

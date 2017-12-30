@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+	<div class="w3-row">
+   		<div class="w3-col l8 s12 w3-padding">
+   			<div class="w3-white">
+   				<img src="../../images/index/binary-1332816_1280_350.jpg" class="image-responsive image-center">
+				<div class="w3-container w3-padding">
+					Testing
+				</div>
+			</div>
+			
+			{%- for article in articles %}
+				<div class="w3-margin-top">
+					{% include "includes/article_summary.html" %}
+				</div>
+			{%- endfor %}
+		</div>
+		
+		<div class="w3-col l4 w3-padding">
+			{% include "includes/about_summary.html" %}
+			
+			<div class="w3-margin-top">
+				{% include "includes/follow_me.html" %}
+			</div>
+		</div>
+	</div>
+
+{% endblock %}
