@@ -9,10 +9,6 @@
 * less
 * makefile to compile less into css
 
-## Url
-
-https://gwnio.github.io
-
 ## Required Pelican Plugins
 
 * https://github.com/streeter/pelican-gist

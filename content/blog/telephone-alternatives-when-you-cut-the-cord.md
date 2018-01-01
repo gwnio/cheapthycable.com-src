@@ -3,7 +3,7 @@ date: 2017-01-07 09:48:23 -0400
 authors: Rick
 Tags: cable, cutting the cord, tips
 
-After I cut the cord I still needed telephone access at my house as I had a Time Warner bundle that included telephone. There are many options both traditional as well as voice over IP (VOIP). Here are some of the options and why I chose the one I chose.
+After I cut the cord I still needed telephone access at my house as I had a Spectrum bundle that included telephone. There are many options both traditional as well as voice over IP (VOIP). Here are some of the options and why I chose the one I chose.
 <!-- PELICAN_END_SUMMARY -->
 
 <img src="../../images/blog/telephone-alternatives-when-you-cut-the-cord/telephone-booth-768610_1280_350.jpg" alt="Telephone alternatives when you cut the cord" class="image-responsive image-center" markdown=1>
@@ -16,7 +16,7 @@ After I cut the cord I still needed telephone access at my house as I had a Time
 
 * NetTalkDuo - Similar to MagicJack but you can plug it directly into your router. It is about $70 up front and $30 annually.
 
-* Cable company telephone - You can pay for VOIP service from your cable company. It is convenient in that you only have one bill to pay but it is expensive (Time Warner is $20 a month).
+* Cable company telephone - You can pay for VOIP service from your cable company. It is convenient in that you only have one bill to pay but it is expensive (Spectrum is $20 a month).
 
 * Vonage - They have a $25 unlimited calling package and it works just like a traditional phone line but is VOIP.
 
