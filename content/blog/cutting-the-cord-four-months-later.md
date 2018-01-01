@@ -1,7 +1,7 @@
 Title: Cutting the cord four months later
 date: 2017-04-18 09:48:23 -0400
 authors: Rick
-Tags: cable, cutting the cord
+Tags: cutting the cord
 
 I cut the cord about four months ago (which you can read about in this blog). How has this impacted how I and my family watch TV? What have been the pros and cons to cutting the cord? I am going to talk about what has happened in the four months since I cut the cord.
 <!-- PELICAN_END_SUMMARY -->

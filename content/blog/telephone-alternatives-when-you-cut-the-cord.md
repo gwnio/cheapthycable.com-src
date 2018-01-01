@@ -1,7 +1,7 @@
 Title: Telephone alternatives when you cut the cord
 date: 2017-01-07 09:48:23 -0400
 authors: Rick
-Tags: cable, cutting the cord, tips
+Tags: cutting the cord, tips
 
 After I cut the cord I still needed telephone access at my house as I had a Spectrum bundle that included telephone. There are many options both traditional as well as voice over IP (VOIP). Here are some of the options and why I chose the one I chose.
 <!-- PELICAN_END_SUMMARY -->

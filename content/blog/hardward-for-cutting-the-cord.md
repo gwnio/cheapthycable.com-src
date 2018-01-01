@@ -1,7 +1,7 @@
 Title: Hardware For Cutting the Cord
 date: 2016-12-23 09:48:23 -0400
 authors: Rick
-Tags: cable, cutting the cord, tips
+Tags: cutting the cord, tips
 
 When you are using cable TV they supply you with all the hardware you need but you pay for it in your monthly bill. Once you have made the decision to save money by cutting the cord you have to make some decisions on what hardware you need but might not be sure where to start or what to buy. Here is a guide on what your cord cutting hardware options are. You are going to have to purchase the hardware (as oppose dto renting it from the cable company) so it is important to make sure you buy purchase the right device. First thing you will need is a high speed internet connection. If you are streaming several devices you will need 50 Mb or more download speed. Second, you will need a device that will allow you to stream shows through the internet. There are many options so here are several and what they can do for you. To help you make a decision on streaming services [read this article.](http://www.zdnet.com/article/the-best-internet-video-streaming-services){:target="_blank"}
 <!-- PELICAN_END_SUMMARY -->

@@ -3,3 +3,4 @@ Disallow: /*.txt$
 Disallow: /app
 Disallow: /login
 Disallow: /signup
+Disallow: /forgot

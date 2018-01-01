@@ -1,7 +1,7 @@
 Title: What is the future of television?
 date: 2017-03-23 09:48:23 -0400
 authors: Rick
-Tags: cable, negotiate
+Tags: cutting the cord, negotiate
 
 Five years ago cable owned TV. If you wanted to watch TV you had no choice but to use them or an over the air antenna. Now the landscape is completely different. Cable/satellite still dominates but there is a very pronounced shift away from traditional TV. There are now so many competitors to cable/satellite TV it makes you wonder where television is heading? What does the future hold for TV?
 <!-- PELICAN_END_SUMMARY -->
