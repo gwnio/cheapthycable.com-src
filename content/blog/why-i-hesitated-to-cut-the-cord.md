@@ -2,6 +2,9 @@ Title: Why I hesitated to cut the cord?
 date: 2017-06-29 09:48:23 -0400
 authors: Rick
 Tags: cutting the cord
+Image: images/blog/why-i-hesitated-to-cut-the-cord/q-and-a-2453376_1280_350.jpg
+ImageWidth: 1280
+ImageHeight: 350
 
 I cut the cord about ten months ago but I should have done it much earlier. Looking back, I was trying to figure out what kept me from telling TWC to take a hike? I did, and still do, hate TWC/Spectrum. What they lack in customer service they more than make up with arrogance. They do not care what their customer think.
 <!-- PELICAN_END_SUMMARY -->

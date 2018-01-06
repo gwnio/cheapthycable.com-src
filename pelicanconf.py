@@ -5,7 +5,8 @@ from __future__ import unicode_literals
 # Site information
 AUTHOR = 'CheapThyCable'
 SITENAME = '@CheapThyCable'
-SITEURL = 'http://localhost:8000'
+DOMAIN = 'localhost:8000'
+SITEURL = 'http://' + DOMAIN
 SITE_DESCRIPTION = 'A community to help negotiate lower cable bills'
 
 PATH = 'content'

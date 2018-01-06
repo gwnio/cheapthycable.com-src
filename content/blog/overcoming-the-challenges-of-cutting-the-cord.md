@@ -2,6 +2,9 @@ Title: Overcoming the challenges of cutting the cord
 date: 2016-12-19 09:48:23 -0400
 authors: Rick
 Tags: cutting the cord
+Image: images/blog/overcoming-the-challenges-of-cutting-the-cord/adventure-1807524_1280_350.jpg
+ImageWidth: 1280
+ImageHeight: 350
 
 I recently cut the cord. I finally had enough of Spectrum raising my rates so I quit buying cable services from them. But there were several concerns I had when I cut the cord. This blog is going to outline how I overcame the challenges of cutting the cord.
 <!-- PELICAN_END_SUMMARY -->

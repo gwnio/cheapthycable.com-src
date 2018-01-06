@@ -2,6 +2,9 @@ Title: My cord cutter setup
 date: 2017-01-20 09:48:23 -0400
 authors: Rick
 Tags: cutting the cord, tips
+Image: images/blog/my-cord-cutter-setup/living-room-1872192_1280_350.jpg
+ImageWidth: 1280
+ImageHeight: 350
 
 I have talked a lot about cutting the cord so I thought I would discuss what my TV setup looks like after I cut the cord. Before I cut the cord I had your typical setup. I had a TV, sound bar, cable box, DVD player and Xbox One all on a shelf. I also needed an HGMI switch so I could run the sound through the sound bar. It was a lot of cables and boxes. I used a Logitech programmable remote to switch back and forth between cable TV, DVD player and the Xbox.
 <!-- PELICAN_END_SUMMARY -->

@@ -1,7 +1,10 @@
 Title: January 25 2017 news about cord cutting and saving money on cable
 date: 2017-01-25 09:48:23 -0400
 authors: Rick
-Tags:news, cutting the cord
+Tags: news, cutting the cord
+Image: images/blog/1-25-2017-news-about-cord-cutting/news-1074604_1280_350.jpg
+ImageWidth: 1280
+ImageHeight: 350
 
 January 25 2017 news about cord cutting and saving money on cable.
 <!-- PELICAN_END_SUMMARY -->

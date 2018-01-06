@@ -2,6 +2,9 @@ Title: Why do you need cheapthycable when negotiating your cable bill?
 date: 2017-01-01 09:48:23 -0400
 authors: Rick
 Tags: cutting the cord, negotiate
+Image: images/blog/why-you-need-cheapthycable-when-negotiating-cable-bill/banner-902697_1280_350.jpg
+ImageWidth: 1280
+ImageHeight: 350
 
 I negotiate for a living, I am always looking for the best price for something. When negotiating, both sides have a price range they are willing to agree to. Both sides work to get the best price inside that price range. There are many ways you can work to lower your price inside that range but the best way is with information.
 <!-- PELICAN_END_SUMMARY -->

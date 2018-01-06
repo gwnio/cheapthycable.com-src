@@ -2,6 +2,9 @@ Title: What are the results of TWC being bought by Spectrum
 date: 2017-06-28 09:48:23 -0400
 authors: Rick
 Tags: cutting the cord
+Image: images/blog/what-are-the-results-of-twc-being-bought-by-spectrum/integration-1777539_1280_350.jpg
+ImageWidth: 1280
+ImageHeight: 350
 
 In 2014 Spectrum (Charter) bought TWC. It took about two years for the merger to take place but now you are starting to see the results. Last September my TWC (now Spectrum) bill did its annual increase. In the past I would call them up and attempt to negotiate my bill back down to its previous cost. I would have to talk to retention (or level 2 as they call it now) but by applying various arcane "specials" they would get the cost close to what it was.
 <!-- PELICAN_END_SUMMARY -->

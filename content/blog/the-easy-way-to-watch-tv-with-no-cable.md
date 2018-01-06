@@ -2,6 +2,9 @@ Title: The easy way to watch TV with no cable i.e. How I cut the cable and kept 
 date: 2016-12-17 09:48:23 -0400
 authors: Rick
 Tags: cutting the cord
+Image: images/blog/the-easy-way-to-watch-tv-with-no-cable/rear-mirror-2480506_1280_350.jpg
+ImageWidth: 1280
+ImageHeight: 350
 
 I have wanted to save money by cutting the cord for several years but my non tech savvy wife was worried that it would be too complicated for her to watch when I was not home. And as we all know, it is important to keep your wife happy when you make a decision like cutting the cord. I have always tried to make things easy for her; I bought a programmable remote so she only has to learn and use one remote and have kept Spectrum despite price increases because she was familiar with and liked their service. But I finally hit my breaking point when they increased my bill from $135 to $180. I planned to negotiate the price [like I described in How to Lower Your Cable and Internet Bill](/blog/2016/how-to-negotiate-your-cable-bill.html){:target="_blank"} and using data I gathered from [Cheapthycable.com](/about){:target="_blank"} but I was so put off by the arrogance of the Spectrum rep that I told them I was getting rid of them and if I am anything, it's a man of my word. I looked at Century Link but they wanted to charge me $150 and sign a two year contract so I decided to wade into the crod cutting waters.
 <!-- PELICAN_END_SUMMARY -->

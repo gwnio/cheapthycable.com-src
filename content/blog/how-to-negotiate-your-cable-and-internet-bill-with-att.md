@@ -2,6 +2,9 @@ Title: How To Negotiate Your Cable and Internet Bill with AT&T
 date: 2016-12-15 09:48:23 -0400
 authors: Rick
 Tags: cutting the cord, negotiate
+Image: images/blog/how-to-negotiate-your-cable-and-internet-bill-with-att/shield-953533_1280_350.jpg
+ImageWidth: 1280
+ImageHeight: 350
 
 I have been haggling with cable companies for years so I thought I would explain some of the tricks I have learned to help you lower your cable and internet bill from AT&T. First understand you will be on the phone for a while as you work through the cable company's representatives. So be in a comfortable place where you can discuss money.
 <!-- PELICAN_END_SUMMARY -->
