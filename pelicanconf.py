@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 # Site information
 AUTHOR = 'CheapThyCable'
-SITENAME = '@CheapThyCable'
+SITENAME = 'CheapThyCable'
 DOMAIN = 'localhost:8000'
 SITEURL = 'http://' + DOMAIN
 SITE_DESCRIPTION = 'A community to help negotiate lower cable bills'
@@ -41,13 +41,14 @@ AUTHOR_FEED_RSS = None
 # Social
 TWITTER_USERNAME = 'CheapThyCable'
 FACEBOOK = 'CheapThyCable'
+INSTAGRAM = 'cheapthycable'
 
 SOCIAL = {'Twitter': 'https://www.twitter.com/' + TWITTER_USERNAME,
-          'LinkedIn':'',
-          'Facebook':'https://www.facebook.com/' + FACEBOOK,
-          'Instagram':'',
-          'Snapchat':'',
-          'Pinterest':''}
+          'LinkedIn': '',
+          'Facebook': 'https://www.facebook.com/' + FACEBOOK,
+          'Instagram': 'https://www.instagram.com/' + INSTAGRAM,
+          'Snapchat': '',
+          'Pinterest': ''}
 
 DEFAULT_PAGINATION = False
 

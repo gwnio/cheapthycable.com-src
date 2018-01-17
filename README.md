@@ -25,7 +25,4 @@ https://pixabay.com/
 
 ## TODO
 * Author page
-* robots.txt - exclude /app /login /signup etc.
-* .txt is being created on every generated file, not good
-* share via facebook or twitter
-
+* minify css
