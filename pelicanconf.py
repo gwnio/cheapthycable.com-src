@@ -74,7 +74,7 @@ ARCHIVES_SAVE_AS = 'archives/index.html'
 DISQUS_SITENAME = 'local-cheapthycable'
 GOOGLE_ANALYTICS = ''
 
-PLUGIN_PATHS = ["plugins", "../../../../../tools/Python36/Lib/site-packages"]
+PLUGIN_PATHS = ["plugins", "~/virtualenvs/pelican/lib/python3.7/site-packages"]
 PLUGINS = ["summary", "pelican_gist"]
 
 OUTPUT_PATH = 'output/local'
